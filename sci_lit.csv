@@ -1,0 +1,207 @@
+,id,age,sex,borough,sci_lit
+1,1,18-22,Female,Staten Island,0.875
+2,8,18-22,Male,Brooklyn,0.875
+3,9,23-40,Female,Brooklyn,0.5
+4,11,23-40,Male,Staten Island,0.5
+5,12,18-22,Male,Brooklyn,0.875
+6,15,18-22,Male,Staten Island,0.875
+7,16,18-22,Female,Brooklyn,0.875
+8,18,18-22,Male,Staten Island,0
+9,20,18-22,Female,Staten Island,0.5
+10,21,18-22,Male,Staten Island,0.25
+11,23,18-22,Female,Staten Island,0.875
+12,24,18-22,Male,Brooklyn,0.5
+13,27,23-40,Female,Staten Island,0.375
+14,28,23-40,Female,Staten Island,0.875
+15,29,18-22,Male,Staten Island,0.625
+16,31,18-22,Male,Staten Island,0.75
+17,32,18-22,Male,Staten Island,0.375
+18,35,18-22,Female,Queens,0.875
+19,36,18-22,Female,Staten Island,0.875
+20,37,18-22,Male,Staten Island,0.875
+21,38,18-22,Female,Staten Island,0.75
+22,39,18-22,Male,Staten Island,0.375
+23,41,18-22,Female,Staten Island,0.5
+24,43,18-22,Female,Brooklyn,0.5
+25,45,18-22,Female,Staten Island,0.875
+26,46,18-22,Male,Staten Island,0.625
+27,47,18-22,Female,Brooklyn,0.875
+28,48,23-40,Female,Staten Island,0.75
+29,49,18-22,Female,Staten Island,0.75
+30,50,23-40,Female,Staten Island,0.25
+31,51,23-40,Male,I do not reside in any of the boroughs,0.875
+32,53,18-22,Female,Brooklyn,0.75
+33,55,18-22,Male,Staten Island,0.5
+34,57,18-22,Male,Staten Island,0.875
+35,58,18-22,Female,Brooklyn,0.875
+36,59,23-40,Female,Staten Island,0.875
+37,60,18-22,Female,Staten Island,0.75
+38,61,18-22,Male,Staten Island,0.75
+39,62,23-40,Male,Staten Island,0.875
+40,63,18-22,Male,Brooklyn,0.875
+41,64,18-22,Female,Bronx,0.75
+42,66,18-22,Male,Staten Island,0.625
+43,67,18-22,Male,Staten Island,0.75
+44,68,18-22,Female,Brooklyn,0.375
+45,69,18-22,Female,Staten Island,0.625
+46,70,18-22,Female,Brooklyn,0.875
+47,71,18-22,Female,Staten Island,0.5
+48,72,18-22,Female,Brooklyn,0.875
+49,73,18-22,Female,Brooklyn,0.625
+50,75,18-22,Male,Staten Island,0.75
+51,76,18-22,Female,Staten Island,0.75
+52,77,18-22,Female,Brooklyn,0.625
+53,78,18-22,Male,Staten Island,0.125
+54,80,18-22,Male,Staten Island,0.625
+55,81,23-40,Male,Staten Island,0.125
+56,82,18-22,Male,Brooklyn,0.125
+57,83,18-22,Male,Brooklyn,0.875
+58,85,18-22,Female,Staten Island,0.75
+59,87,18-22,Male,Brooklyn,0.5
+60,88,18-22,Male,Brooklyn,0.5
+61,89,23-40,Male,Bronx,0.875
+62,90,18-22,Male,Staten Island,0.375
+63,91,18-22,Male,Staten Island,0.75
+64,92,18-22,Female,Staten Island,0.875
+65,93,18-22,Female,Staten Island,0.75
+66,94,18-22,Transgender,Staten Island,0.625
+67,95,18-22,Male,Staten Island,0.5
+68,97,18-22,Female,Staten Island,0.625
+69,99,18-22,Female,Staten Island,0.5
+70,100,18-22,Male,Brooklyn,0.75
+71,102,18-22,Female,Brooklyn,0.875
+72,104,23-40,Female,Staten Island,0.625
+73,105,18-22,Female,Staten Island,0.625
+74,106,18-22,Female,Staten Island,0.625
+75,107,18-22,Male,Staten Island,0.375
+76,109,18-22,Male,Staten Island,0.875
+77,110,18-22,Female,Brooklyn,0.75
+78,111,18-22,Male,Staten Island,0.625
+79,112,18-22,Female,Staten Island,0.875
+80,113,18-22,Female,Staten Island,0.75
+81,114,18-22,Female,Staten Island,0.875
+82,115,18-22,Female,Staten Island,0.625
+83,116,23-40,Female,Brooklyn,0.75
+84,117,18-22,Male,Staten Island,0.75
+85,118,18-22,Female,Brooklyn,0.875
+86,119,23-40,Female,Staten Island,0.625
+87,120,23-40,Female,Staten Island,0.875
+88,121,18-22,Male,Staten Island,0.875
+89,122,18-22,Female,Staten Island,0.875
+90,123,18-22,Female,Brooklyn,0.75
+91,124,18-22,Male,Staten Island,0.375
+92,125,23-40,Male,Staten Island,0.875
+93,126,18-22,Female,Staten Island,0.5
+94,127,18-22,Female,Staten Island,0.875
+95,128,18-22,Female,Staten Island,0.875
+96,129,18-22,Male,Staten Island,0.625
+97,130,18-22,Female,Staten Island,0.875
+98,131,23-40,Female,Staten Island,0.875
+99,132,18-22,Female,Queens,0.875
+100,135,18-22,Male,Brooklyn,0.625
+101,136,23-40,Male,Staten Island,0.625
+102,137,18-22,Male,Staten Island,0.875
+103,138,41+,Female,Manhattan,0.875
+104,140,18-22,Female,Staten Island,0.875
+105,142,18-22,Female,Brooklyn,0.875
+106,145,18-22,Male,Staten Island,0.875
+107,146,18-22,Male,Staten Island,0.875
+108,148,18-22,Male,Brooklyn,0.75
+109,149,23-40,Female,Staten Island,0.875
+110,150,18-22,Male,Staten Island,0.25
+111,152,18-22,Female,Staten Island,0.75
+112,153,23-40,Male,Staten Island,0.75
+113,154,18-22,Female,Staten Island,0.75
+114,155,18-22,Female,Staten Island,0.875
+115,158,23-40,Male,Staten Island,0.875
+116,159,18-22,Female,Staten Island,0.875
+117,160,18-22,Male,Brooklyn,0.625
+118,161,18-22,Female,Staten Island,0.5
+119,162,23-40,Female,Manhattan,0.875
+120,163,18-22,Male,Brooklyn,0.875
+121,164,18-22,Male,Staten Island,0.875
+122,166,18-22,Male,Staten Island,0.5
+123,167,18-22,Female,Brooklyn,0.75
+124,168,18-22,Female,Staten Island,0.875
+125,169,18-22,Female,Brooklyn,0.875
+126,170,18-22,Female,Brooklyn,0.875
+127,171,18-22,Female,Staten Island,0.875
+128,172,18-22,Female,Staten Island,0.75
+129,173,18-22,Male,Manhattan,0.625
+130,174,18-22,Female,Staten Island,0.625
+131,175,18-22,Female,Staten Island,0.875
+132,176,18-22,Female,Brooklyn,0.875
+133,177,18-22,Male,Staten Island,0.875
+134,179,18-22,Male,Staten Island,0.5
+135,180,18-22,Female,Brooklyn,0.875
+136,181,18-22,Male,Staten Island,0.875
+137,182,18-22,Female,Brooklyn,0.875
+138,186,18-22,Female,Staten Island,0.5
+139,187,23-40,Female,Staten Island,0.875
+140,189,18-22,Female,Brooklyn,0.375
+141,190,18-22,Female,Brooklyn,0.5
+142,191,18-22,Male,Staten Island,0.875
+143,192,18-22,Male,Staten Island,0.625
+144,194,18-22,Male,Staten Island,0.5
+145,195,18-22,Male,Staten Island,0.75
+146,196,18-22,Male,Staten Island,0.625
+147,197,18-22,Male,Staten Island,0.75
+148,199,18-22,Male,Staten Island,0.25
+149,200,23-40,Female,I do not reside in any of the boroughs,0.375
+150,201,18-22,Male,Brooklyn,0.5
+151,202,18-22,Female,Brooklyn,0.875
+152,205,18-22,Male,Staten Island,0.25
+153,206,18-22,Male,Staten Island,0.625
+154,207,18-22,Female,Queens,0.75
+155,209,18-22,Male,Staten Island,0.875
+156,210,23-40,Male,Staten Island,0.875
+157,212,18-22,Female,Staten Island,0.75
+158,213,18-22,Male,Brooklyn,0.875
+159,214,18-22,Female,Brooklyn,0.875
+160,215,18-22,Female,Staten Island,0.875
+161,216,18-22,Male,Staten Island,0.75
+162,217,18-22,Female,Staten Island,0.75
+163,218,18-22,Female,Staten Island,0.75
+164,219,18-22,Female,Staten Island,0.875
+165,220,18-22,Female,Brooklyn,0.875
+166,221,18-22,Female,Staten Island,0.875
+167,3,18-22,Female,Brooklyn,0.857142857
+168,4,18-22,Female,Staten Island,0.857142857
+169,5,18-22,Male,Staten Island,0.857142857
+170,7,18-22,Male,Staten Island,0.714285714
+171,13,18-22,Female,Brooklyn,1
+172,14,18-22,Female,Brooklyn,1
+173,17,18-22,Male,Staten Island,0.714285714
+174,19,18-22,Female,I do not reside in any of the boroughs,0.714285714
+175,22,18-22,Male,Brooklyn,0.714285714
+176,25,18-22,Female,Staten Island,1
+177,33,23-40,Male,Staten Island,0.714285714
+178,34,18-22,Female,Staten Island,0.857142857
+179,40,18-22,Female,Staten Island,0.571428571
+180,42,18-22,Female,Staten Island,0.857142857
+181,54,18-22,Female,Brooklyn,0.714285714
+182,65,18-22,Male,Staten Island,0.714285714
+183,74,18-22,Female,Bronx,0.285714286
+184,79,18-22,Male,Staten Island,0.428571429
+185,84,18-22,Female,Brooklyn,0.142857143
+186,86,18-22,Male,Brooklyn,1
+187,96,18-22,Female,Staten Island,0.857142857
+188,98,18-22,Female,Brooklyn,0.714285714
+189,101,18-22,Female,Staten Island,0.857142857
+190,103,18-22,Female,Brooklyn,1
+191,108,18-22,Male,Staten Island,1
+192,139,18-22,Female,Staten Island,1
+193,141,18-22,Female,Brooklyn,0.571428571
+194,143,41+,Female,Staten Island,1
+195,147,23-40,Female,Staten Island,0.857142857
+196,151,18-22,Female,Staten Island,0.714285714
+197,156,18-22,Male,Staten Island,0.571428571
+198,157,18-22,Female,Staten Island,0.714285714
+199,165,18-22,Male,Staten Island,1
+200,178,18-22,Female,Staten Island,1
+201,184,18-22,Female,Staten Island,1
+202,185,18-22,Female,Manhattan,1
+203,193,18-22,Female,Staten Island,1
+204,198,23-40,Female,Staten Island,1
+205,208,18-22,Male,Staten Island,1
+206,211,18-22,Female,Staten Island,0.857142857

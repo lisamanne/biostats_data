@@ -1,0 +1,15 @@
+Species,brain_body,bodysize
+cat,0.009,large
+dog,0.008,large
+elephant,0.0017,large
+frog,0.005,small
+hippopotamus,0.0003,large
+horse,0.0016,large
+human,0.025,large
+lion,0.002,large
+mouse,0.025,small
+shark,0.0004,large
+small ants,0.14,small
+small birds,0.07,small
+squirrel,0.006,small
+tree shrew,0.1,small
